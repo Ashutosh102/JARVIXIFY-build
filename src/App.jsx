@@ -30,7 +30,7 @@ function App() {
 
       {/* header */}
       <div className="font-bold  text-2xl text-center mb-3">
-        JARV-ixify
+        Ask Krishi🧑‍🌾
       </div>
 
       {/* body */}
